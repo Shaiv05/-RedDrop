@@ -289,7 +289,7 @@ git push origin feature/AmazingFeature
 <tr>
 
 <td align="center" width="220">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Shaiv05">
   <img src="https://avatars.githubusercontent.com/YOUR_USERNAME?v=4" width="100" height="100" style="border-radius:50%; border: 3px solid #FF3131;" onerror="this.src='https://ui-avatars.com/api/?name=Shaiv+Patel&background=FF3131&color=fff&size=100'" alt="Shaiv Patel"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Shaiv_Patel-Lead_Developer-FF3131?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000"/>
@@ -298,7 +298,7 @@ git push origin feature/AmazingFeature
 <sub><b>🎓 Computer Engineering Student</b></sub><br/>
 <sub>💻 Full-Stack MERN Developer</sub><br/>
 <sub>🚀 AI & Web Enthusiast</sub><br/><br/>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Shaiv05">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -307,7 +307,7 @@ git push origin feature/AmazingFeature
 </td>
 
 <td align="center" width="220">
-<a href="https://github.com/DHRUVI_USERNAME">
+<a href="https://github.com/dhruvipatel2904">
   <img src="https://ui-avatars.com/api/?name=Dhruvi+Patel&background=cc0000&color=fff&size=100&bold=true" width="100" height="100" style="border-radius:50%; border: 3px solid #cc0000;" alt="Dhruvi Patel"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Dhruvi_Patel-Frontend_Developer-cc0000?style=for-the-badge&logo=react&logoColor=white&labelColor=1a0000"/>
@@ -316,7 +316,7 @@ git push origin feature/AmazingFeature
 <sub><b>🎓 Computer Engineering Student</b></sub><br/>
 <sub>🎨 UI/UX & React Specialist</sub><br/>
 <sub>✨ Design Systems Enthusiast</sub><br/><br/>
-<a href="https://github.com/DHRUVI_USERNAME">
+<a href="https://github.com/dhruvipatel2904">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/DHRUVI_LINKEDIN">
@@ -325,7 +325,7 @@ git push origin feature/AmazingFeature
 </td>
 
 <td align="center" width="220">
-<a href="https://github.com/POOJA_USERNAME">
+<a href="https://github.com/pooja-patel-05">
   <img src="https://ui-avatars.com/api/?name=Pooja+Patel&background=990000&color=fff&size=100&bold=true" width="100" height="100" style="border-radius:50%; border: 3px solid #990000;" alt="Pooja Patel"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/Pooja_Patel-Backend_Developer-990000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a0000"/>
@@ -334,7 +334,7 @@ git push origin feature/AmazingFeature
 <sub><b>🎓 Computer Engineering Student</b></sub><br/>
 <sub>⚙️ Node.js & MongoDB Expert</sub><br/>
 <sub>🔐 API & Auth Specialist</sub><br/><br/>
-<a href="https://github.com/POOJA_USERNAME">
+<a href="https://github.com/pooja-patel-05">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/POOJA_LINKEDIN">
